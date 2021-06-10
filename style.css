@@ -24,9 +24,10 @@
 }
 
 .row {
-	margin-top: 80px;
+	margin-top: 40px;
 }
 .out {
+        margin-top: 40px;
 	border: 2px dashed;
 	width: 86%;
 	border-top-left-radius: 80px;
